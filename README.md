@@ -1,1 +1,1 @@
-# jenkins-ci-demo
+This project is integrated with Jenkins CI.
